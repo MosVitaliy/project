@@ -1,1 +1,1 @@
-# project
+print <Hello World>
